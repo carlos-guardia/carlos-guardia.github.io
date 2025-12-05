@@ -14,3 +14,5 @@ Welcome to my personal collection of notes, guides, and code snippets. This is w
 ---
 
 *More content coming soon as I continue to document and share my learnings.*
+
+[View source code on GitHub](https://github.com/carlos-guardia/carlos-guardia.github.io)
