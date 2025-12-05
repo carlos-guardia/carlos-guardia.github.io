@@ -1,0 +1,28 @@
+# Site settings
+title: Carlos Guardia's Notes
+description: Personal notes, guides, and code snippets
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+source: docs
+
+# Header pages
+header_pages:
+  - index.md
+  - about.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git/
+  - .gitignore
+  - README.md

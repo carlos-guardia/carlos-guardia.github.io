@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tech Stack Decision Guide
+---
+
 # Tech Stack Decision Guide
 
 ## What is NPM and Why Do Some Frameworks Need a "Build"?
