@@ -275,6 +275,7 @@ Hosting:   Shared hosting
 
 | Frontend | Backend | Database | Works? | Notes |
 |----------|---------|----------|--------|-------|
+| PHP templates | PHP | MySQL | ✅ | Classic approach, simplest |
 | React (built) | PHP | MySQL | ✅ | Best modern option |
 | Vue (built) | PHP | MySQL | ✅ | Similar to React |
 | Angular (built) | PHP | MySQL | ✅ | More complex than React/Vue |
