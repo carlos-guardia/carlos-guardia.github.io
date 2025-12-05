@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Carlos Guardia's Notes
+# Notes
 
 Welcome to my personal collection of notes, guides, and code snippets. This is where I document things I've learned, share useful resources, and keep track of technical decisions.
 
