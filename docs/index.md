@@ -10,6 +10,7 @@ Welcome to my personal collection of notes, guides, and code snippets. This is w
 ## Available Content
 
 - [Tech Stack Decision Guide](tech-stack-decision-guide.html) - A comprehensive guide for choosing the right technology stack for your projects
+- [AI Coding Assistants Guide](ai-coding-assistants-guide.html) - Compare AI coding tools, pricing, features, and token limits
 
 ---
 

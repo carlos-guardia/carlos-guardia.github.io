@@ -9,6 +9,7 @@ Visit the live site at: **[carlos-guardia.github.io](https://carlos-guardia.gith
 ## 📝 Current Content
 
 - [Tech Stack Decision Guide](https://carlos-guardia.github.io/tech-stack-decision-guide.html) - A comprehensive guide for choosing the right technology stack for your projects
+- [AI Coding Assistants Guide](https://carlos-guardia.github.io/ai-coding-assistants-guide.html) - Compare AI coding tools like GitHub Copilot, Cursor, Claude, and more
 
 ## 🛠️ Built With
 
