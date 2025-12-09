@@ -11,7 +11,6 @@ Welcome to my personal collection of notes, guides, and code snippets. This is w
 
 - [Tech Stack Decision Guide](tech-stack-decision-guide.html) - A comprehensive guide for choosing the right technology stack for your projects
 - [AI Coding Assistants Guide](ai-coding-assistants-guide.html) - Compare AI coding tools, pricing, features, and token limits
-- [Propuesta Migración AWS Multi-Cuenta](propuesta-migracion-aws-multi-cuenta.html) - Guía completa para migrar a estrategia multi-cuenta en AWS
 
 ---
 

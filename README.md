@@ -10,7 +10,6 @@ Visit the live site at: **[carlos-guardia.github.io](https://carlos-guardia.gith
 
 - [Tech Stack Decision Guide](https://carlos-guardia.github.io/tech-stack-decision-guide.html) - A comprehensive guide for choosing the right technology stack for your projects
 - [AI Coding Assistants Guide](https://carlos-guardia.github.io/ai-coding-assistants-guide.html) - Compare AI coding tools like GitHub Copilot, Cursor, Claude, and more
-- [Propuesta Migración AWS Multi-Cuenta](https://carlos-guardia.github.io/propuesta-migracion-aws-multi-cuenta.html) - Complete guide for migrating to AWS multi-account strategy (Spanish)
 
 ## 🛠️ Built With
 
