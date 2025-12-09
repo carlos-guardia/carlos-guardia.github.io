@@ -647,3 +647,9 @@ Cost: $12/month
 - Consider **Cursor** ($20) if you want the best experience
 
 **Remember:** The best tool depends on your workflow, budget, and preferences. Try free tiers first!
+
+
+---
+
+VSCode: https://kilo.ai/ or Roo
+Gateway: OpenRouter or Kilo Gateway
